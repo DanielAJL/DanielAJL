@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨 I'm Daniel, a front-end developer living in Amsterdam.<br><br>⚡ I am currently employed as an Angular developer.<br>📚 I am currently learning the C/C++ programming language at Codam (42)
+👨 I'm Daniel, a <b>front-end developer</b> living in Amsterdam.<br><br>⚡ I am currently employed as an <b>Angular</b> developer.<br>📚 I am currently learning the <b>C/C++</b> programming language at <b>Codam (42)</b>.
 
 
 ## 🌐 Socials:
